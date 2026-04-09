@@ -1,0 +1,5 @@
+version: 1
+agent:
+  display_name: CFD RCA Debugger
+  short_description: Evidence-backed root-cause analysis for BAP customer-found defects.
+  default_prompt: Investigate this CFD using the cfd-rca-debugger skill, gather evidence from the best available sources, then produce a concise root-cause report and RCA artifacts.

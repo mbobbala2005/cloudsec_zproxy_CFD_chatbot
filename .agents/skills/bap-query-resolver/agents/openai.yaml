@@ -1,0 +1,5 @@
+version: 1
+agent:
+  display_name: BAP Query Resolver
+  short_description: Answer BAP architecture, feature-support, and implementation-detail questions.
+  default_prompt: Answer this BAP architecture or product-implementation question using the bap-query-resolver skill, verify the owning component and source, then return a concise answer with where to verify and any documentation gap.
